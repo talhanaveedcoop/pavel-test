@@ -1,5 +1,6 @@
 Summer Bucketlist
 
-- [ ] Trip to India
+- [ ] Trip to Europe
 - [ ]  Book tickets 
+- visit France
 
