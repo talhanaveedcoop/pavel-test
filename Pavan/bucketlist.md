@@ -1,4 +1,5 @@
 Summer Bucketlist
 
-- [ ] road trip
+- [ ] Trip to India
+- [ ]  Book tickets 
 
